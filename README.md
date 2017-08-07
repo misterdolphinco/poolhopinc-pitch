@@ -83,13 +83,13 @@ This will be the first longterm Mister Dolphin Co. project / venture.
 
 _List of attached rough documentation_
 
-<a href='https://github.com/misterdolphinco/poolhopinc-pitch/blob/master/pool-hop-pitch-1.pdf'</a>
+<a href='https://github.com/misterdolphinco/poolhopinc-pitch/blob/master/pool-hop-pitch-1.pdf'
 
-<a href='https://github.com/misterdolphinco/poolhopinc-pitch/blob/master/pool-hop-roughwire-faq.pdf'</a>
+<a href='https://github.com/misterdolphinco/poolhopinc-pitch/blob/master/pool-hop-roughwire-faq.pdf'
 
-<a href='https://github.com/misterdolphinco/poolhopinc-pitch/blob/master/pool-hop-faq.pdf'</a>
+<a href='https://github.com/misterdolphinco/poolhopinc-pitch/blob/master/pool-hop-faq.pdf'
 
-<a href='https://github.com/misterdolphinco/poolhopinc-pitch/blob/master/pool-hop-rough-planning.pdf'</a>
+<a href='https://github.com/misterdolphinco/poolhopinc-pitch/blob/master/pool-hop-rough-planning.pdf</a>
 
 
 ## Legal Distribution Agreement
