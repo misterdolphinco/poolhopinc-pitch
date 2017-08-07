@@ -1,7 +1,5 @@
 # poolhopinc-pitch
 [RECENTLY RELEASED] Pool Hop Draft Pitch v0.1
-
-# Pool Hop Pitch
 [Questions Source - The Pitch Podcast](http://www.pitchpodcast.org/pitch-us/) 
 
 ## Questions
