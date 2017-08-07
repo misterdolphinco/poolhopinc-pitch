@@ -79,20 +79,22 @@ A: I’m the founder.
 ## Further Notes & Reference For Future Pitch Drafts
 This will be the first longterm Mister Dolphin Co. project / venture.
 
-![](Pool%20Hop%20Pitch/logo-wordmark.png)
+![](https://github.com/misterdolphinco/poolhopinc-pitch/blob/master/logo-wordmark.png)
 
 _List of attached rough documentation_
 
-<a href='Pool%20Hop%20Pitch/pool-hop-faq.pdf'pool-hop-faq.pdf</a
-<a href='Pool%20Hop%20Pitch/pool-hop-roughwire-faq.pdf'pool-hop-roughwire-faq.pdf</a
-<a href='Pool%20Hop%20Pitch/pool-hop-rough-planning.pdf'pool-hop-rough-planning.pdf</a
+<a href=https://github.com/misterdolphinco/poolhopinc-pitch/blob/master/pool-hop-pitch-1.pdf</a
+<a href=https://github.com/misterdolphinco/poolhopinc-pitch/blob/master/pool-hop-roughwire-faq.pdf</a
+<a href=https://github.com/misterdolphinco/poolhopinc-pitch/blob/master/pool-hop-faq.pdf</a
+<a href=https://github.com/misterdolphinco/poolhopinc-pitch/blob/master/pool-hop-rough-planning.pdf</a
+
 
 ## Legal Distribution Agreement
 All Answers, Explanations & Notations / References Are Intellectual Property Owned By The Following Person / Business:
 
-© Andrew Corrado 2017 / © Mister Dolphin Co. 2017
+© Andrew Corrado 2017 / © Mister Dolphin Co. 2017
 All Rights Reserved For Both Parties.
 - - - -
 Do not redistribute this document, or any attached documents to anyone without the explicit permission of Andrew Corrado. If you have received this document it is due to a good faith agreement between you and the intellectual property owner. For re-publication or redistribution please contact andrewcorrado@me.com. 
 
-#misterdolphinco/poolhop
+#misterdolphinco #poolhopinc
